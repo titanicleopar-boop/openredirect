@@ -19,7 +19,7 @@ chmod +x scanner.py
 ```bash
 ./scanner.py
 ```
-
+#### urltopkapsam.txt / wayback katana gau
 ---
 
 ## 📺 PoC Video Demonstration
