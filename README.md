@@ -19,8 +19,7 @@ chmod +x openredirect.py
 ```bash
 ./openredirect.py
 ```
-or
-python openredirect.py
+
 #### urltopkapsam.txt / wayback katana gau
 ---
 
