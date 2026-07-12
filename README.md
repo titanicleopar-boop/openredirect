@@ -24,10 +24,5 @@ chmod +x scanner.py
 
 ## 📺 PoC Video Demonstration
 
-[![YouTube Video Kapağı](https://youtube.com)](https://youtube.com)
+[![YouTube Video Kapağı](https://github.com/user-attachments/assets/542c2839-5690-436b-b98e-35e0b629d7e1)](https://www.youtube.com/watch?v=aMGj7tm9E1E)
 
----
-
-## 📊 Architecture & Attack Scheme
-
-<img width="800" height="480" alt="palamuttttttttttttttttttttttt20scheme" src="https://github.com/user-attachments/assets/542c2839-5690-436b-b98e-35e0b629d7e1" />
