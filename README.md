@@ -19,7 +19,7 @@ chmod +x openredirect.py
 ```bash
 ./openredirect.py
 ```
-#### Waf Speed
+#### 5
 ```bash
 https://www.kali.org/tools/getallurls
 https://github.com/projectdiscovery/katana
