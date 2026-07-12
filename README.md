@@ -19,20 +19,26 @@ chmod +x openredirect.py
 ```bash
 ./openredirect.py
 ```
-
-#### urltopkapsam.txt / wayback katana gau
+#### Waf Speed
+```bash
+https://www.kali.org/tools/getallurls
+https://github.com/projectdiscovery/katana
+https://github.com/tomnomnom/waybackurls
+```
+##### urltopkapsam.txt / wayback katana gau
 ---
 
-##### Waf Speed
+###### Waf Speed
 ```bash
 max_threads, request_delay = 20, 0.04  or 20 15 5 
 ```
 
-##### Waf Speed
+####### Waf Speed
 ```bash
 urltopkapsam.txt  add https://example.com 1x 10x *
 ```
-###### 📺 PoC Video Demonstration
+
+######## 📺 PoC Video Demonstration
 
 [![YouTube Video Kapağı](https://github.com/user-attachments/assets/45531d2a-fd89-49ee-a313-248864e41b44)](https://www.youtube.com/watch?v=aMGj7tm9E1E)
 
