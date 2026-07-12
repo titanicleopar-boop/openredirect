@@ -12,13 +12,15 @@ pip3 install curl-cffi uro
 
 ### 3. Set Executable Permissions
 ```bash
-chmod +x scanner.py
+chmod +x openredirect.py
 ```
 
 ### 4. Run the Scanner
 ```bash
-./scanner.py
+./openredirect.py
 ```
+or
+python openredirect.py
 #### urltopkapsam.txt / wayback katana gau
 ---
 
