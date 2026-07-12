@@ -20,9 +20,9 @@ CHECKPOINT_FILE = "checkpoint.json"
 POC_OUTPUT_FILE = "vulnerable_links.txt"
 
 # --- BRAND SOCIAL MEDIA LINKS ---
-YOUTUBE_LINK = "https://youtube.com"
-TELEGRAM_LINK = "https://t.me"
-DISCORD_LINK = "https://discord.com"
+YOUTUBE_LINK = "https://www.youtube.com/@byroot3254"
+TELEGRAM_LINK = "https://t.me/joinchat/9eh5ZhOTez44MjU0"
+DISCORD_LINK = "https://discord.com/invite/PP5UYBW"
 # --- BIG ASCII LOGO & BANNER ---
 BANNER_LOGO = """
 \033[96m██████╗ ██╗   ██╗██████╗  ██████╗  ██████╗ ████████╗
