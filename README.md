@@ -3,4 +3,5 @@
 ## pip3 install curl-cffi uro
 ### chmod +x scanner.py
 #### ./scanner.py
-[![YouTube Video Kapağı](https://i9.ytimg.com/vi/aMGj7tm9E1E/mqdefault.jpg)](https://www.youtube.com/watch?v=aMGj7tm9E1E)
+[![YouTube Video Kapağı](https://youtube.com)](https://www.youtube.com/watch?v=aMGj7tm9E1E)
+
