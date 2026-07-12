@@ -23,7 +23,11 @@ chmod +x openredirect.py
 #### urltopkapsam.txt / wayback katana gau
 ---
 
-## 📺 PoC Video Demonstration
+##### Waf Speed
+```bash
+max_threads, request_delay = 20, 0.04  or 20 15 5 
+```
+###### 📺 PoC Video Demonstration
 
 [![YouTube Video Kapağı](https://github.com/user-attachments/assets/45531d2a-fd89-49ee-a313-248864e41b44)](https://www.youtube.com/watch?v=aMGj7tm9E1E)
 
