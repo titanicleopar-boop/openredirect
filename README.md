@@ -1,8 +1,33 @@
-🛠️ LINUX INSTALLATION GUIDE FROM SCRATCH (INSTALLATION STEPS)
-# sudo apt update && sudo apt install python3 python3-pip python3-venv git -y
-## pip3 install curl-cffi uro
-### chmod +x scanner.py
-#### ./scanner.py
-[![YouTube Video Kapağı](https://img.ytimg.com/vi/aMGj7tm9E1E/mqdefault.jpg)](https://www.youtube.com/watch?v=aMGj7tm9E1E)
+# 🛠️ LINUX INSTALLATION GUIDE FROM SCRATCH (INSTALLATION STEPS)
 
+### 1. Update System & Install Dependencies
+```bash
+sudo apt update && sudo apt install python3 python3-pip python3-venv git -y
+```
 
+### 2. Install Required Python Packages
+```bash
+pip3 install curl-cffi uro
+```
+
+### 3. Set Executable Permissions
+```bash
+chmod +x scanner.py
+```
+
+### 4. Run the Scanner
+```bash
+./scanner.py
+```
+
+---
+
+## 📺 PoC Video Demonstration
+
+[![YouTube Video Kapağı](https://youtube.com)](https://youtube.com)
+
+---
+
+## 📊 Architecture & Attack Scheme
+
+<img width="800" height="480" alt="palamuttttttttttttttttttttttt20scheme" src="https://github.com/user-attachments/assets/542c2839-5690-436b-b98e-35e0b629d7e1" />
