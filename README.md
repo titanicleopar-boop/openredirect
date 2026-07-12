@@ -24,5 +24,8 @@ chmod +x scanner.py
 
 ## 📺 PoC Video Demonstration
 
-[![YouTube Video Kapağı](https://github.com/user-attachments/assets/542c2839-5690-436b-b98e-35e0b629d7e1)](https://www.youtube.com/watch?v=aMGj7tm9E1E)
+[![YouTube Video Kapağı]([https://github.com/user-attachments/assets/542c2839-5690-436b-b98e-35e0b629d7e1](https://github.com/user-attachments/assets/45531d2a-fd89-49ee-a313-248864e41b44))](https://www.youtube.com/watch?v=aMGj7tm9E1E)
+
+
+
 
