@@ -27,6 +27,12 @@ chmod +x openredirect.py
 ```bash
 max_threads, request_delay = 20, 0.04  or 20 15 5 
 ```
+
+##### Waf Speed
+```bash
+urllist : domainler https://example.com 1x 10x ....
+cat urllist.txt|getallurls > urltopkapsam.txt;cat urllist.txt|katana >>urltopkapsam.txt;cat urllist.txt|waybackurls >> urltopkapsam.txt;openredirect.py
+```
 ###### 📺 PoC Video Demonstration
 
 [![YouTube Video Kapağı](https://github.com/user-attachments/assets/45531d2a-fd89-49ee-a313-248864e41b44)](https://www.youtube.com/watch?v=aMGj7tm9E1E)
