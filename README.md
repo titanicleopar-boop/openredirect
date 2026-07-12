@@ -35,7 +35,7 @@ max_threads, request_delay = 20, 0.04  or 20 15 5
 
 ####### Waf Speed
 ```bash
-urltopkapsam.txt  add https://example.com 1x 10x *
+urllist.txt  add https://example.com 1x 10x *
 ```
 
 ######## 📺 PoC Video Demonstration
