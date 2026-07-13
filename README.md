@@ -71,5 +71,6 @@ Produces a premium cybersecurity report powered by Bootstrap, supporting a dark 
 ### 9. 🧠 Akıllı Oturum Koruma ve sinsi Hafıza Sistemi (Kayıpsız Checkpoint)
 Ziyaret Edilen URL Geçmişi: Tarayıcı artık sadece "kaçıncı sırada" olduğunu değil, taraması tamamen biten her URL'nin kendisini checkpoint.json dosyasına kazır.Mükerrer İstek Atlaması: Elektrik kesintisi veya bilgisayarın kapanması durumunda tarama baştan başlasa bile, liste sırası ne kadar değişirse değişsin, daha önce taranmış linkleri milisaniyeler içinde tespit eder ve tek bir payload bile göndermeden doğrudan pas geçer.Zafiyet Kurtarma: Çökme anına kadar bulduğun tüm zafiyetler JSON hafızasından otomatik olarak geri yüklenir; emeğin asla çöpe gitmez.
 
-### 10. ⏱️ 15 Dakikada Bir Canlı Otomatik Raporlama ve FTP YedeklemeCanlı Rapor Güncelleme: Tarama saatlerce sürse bile, scriptin bitmesini beklemeden her 15 dakikada bir o ana kadar bulunan tüm canlı zafiyetleri mevcut HTML raporuna anlık olarak yazar.
+### 10. ⏱️ 15 Dakikada Bir Canlı Otomatik Raporlama ve FTP Yedekleme
+Canlı Rapor Güncelleme: Tarama saatlerce sürse bile, scriptin bitmesini beklemeden her 15 dakikada bir o ana kadar bulunan tüm canlı zafiyetleri mevcut HTML raporuna anlık olarak yazar.
 
