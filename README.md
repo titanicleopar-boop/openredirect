@@ -68,6 +68,8 @@ Automatically uploads a stylish HTML report, generated when the scan is complete
 ### 8. Neon Cyber HTML Report
 Produces a premium cybersecurity report powered by Bootstrap, supporting a dark mode theme, and cleanly displaying vulnerable links along with proof of concept (PoC) data.
 
-### 9. 🧠 Smart Session Protection and Stealthy Memory System (Lossless Checkpoint)Visited URL History: The browser now records every URL it has fully crawled  , not just its "rank", checkpoint.jsoninto its file.Duplicate Request Skipping: Even if the scan restarts due to a power outage or computer shutdown, it detects previously scanned links within milliseconds, regardless of how much the list order changes, and bypasses them directly without sending a single payload.Vulnerability Recovery: All vulnerabilities you found up until the moment of the crash are automatically restored from JSON memory; your work is never wasted.
+### 9. 🧠 Smart Session Protection and Stealthy Memory System (Lossless Checkpoint)
+Visited URL History: The browser now records every URL it has fully crawled  , not just its "rank", checkpoint.jsoninto its file.Duplicate Request Skipping: Even if the scan restarts due to a power outage or computer shutdown, it detects previously scanned links within milliseconds, regardless of how much the list order changes, and bypasses them directly without sending a single payload.Vulnerability Recovery: All vulnerabilities you found up until the moment of the crash are automatically restored from JSON memory; your work is never wasted.
 
-### 10. ⏱️ Live Automated Reporting and FTP Backup Every 15 MinutesLive Report Update: Even if the scan takes hours, it instantly updates all live vulnerabilities found so far to the current HTML report every 15 minutes, without waiting for the script to finish.
+### 10. ⏱️ Live Automated Reporting and FTP Backup Every 15 Minutes
+Live Report Update: Even if the scan takes hours, it instantly updates all live vulnerabilities found so far to the current HTML report every 15 minutes, without waiting for the script to finish.
